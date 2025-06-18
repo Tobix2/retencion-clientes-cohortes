@@ -1,5 +1,3 @@
-¡Listo! Aquí tienes el README corregido y limpio, listo para copiar y pegar. He quitado el \`\`\`markdown extra y cerrado bien los bloques de código.
-
 ````markdown
 # Análisis de Retención de Clientes con Cohortes
 
